@@ -17,7 +17,7 @@ let questions=[
     },
     {
         id:3,
-        question: "Who died at the end of 'Harry Potter and the Goblet of Fire?",
+        question: "Who died at the end of Harry Potter and the Goblet of Fire?",
         answer:"Cedric Diggory",
         options: [
             "Victor Krum", "Fleur Delacour", "Hermione Granger", "Cedric Diggory"
