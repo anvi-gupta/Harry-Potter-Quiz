@@ -44,7 +44,7 @@ let questions=[
         question: "Finish this line from Harry Potter and the Order of the Phoenix : I must not ____",
         answer:"Tell lies",
         options: [
-            "Tell lies", "Beat others", "Use magic on others for no reason", "fail in the exam"
+            "Tell lies", "Beat others", "Be unkind", "Fail in the exam"
         ]
     },
 
